@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Gunit
 
-### 💻 Aspiring Software Developer | MCA Student | Web Development Enthusiast
+### 💻 Aspiring Software Developer | BCA Student | Web Development Enthusiast
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Building+Projects+and+Learning+Every+Day;Exploring+Web+%26+Backend+Development;Turning+Ideas+Into+Working+Applications" alt="Typing animation" />
@@ -22,7 +22,7 @@
 
 ## 🚀 About Me
 
-Hello! I'm **[Your Name]**, a postgraduate student pursuing MCA with an interest in software development, web technologies, and backend engineering.
+Hello! I'm **GUNIT KAUR**, a postgraduate student pursuing MCA with an interest in software development, web technologies, and backend engineering.
 
 I enjoy learning how applications work behind the scenes, building practical projects, and transforming ideas into useful digital experiences.
 
@@ -118,8 +118,7 @@ I enjoy learning how applications work behind the scenes, building practical pro
 
 | Qualification | Status |
 |---|---|
-| Master of Computer Applications (MCA) | Pursuing |
-| Bachelor of Commerce (B.Com) | Completed — 2025 |
+| Bachelor of Computer Applications (BCA) | Pursuing |
 
 ---
 
