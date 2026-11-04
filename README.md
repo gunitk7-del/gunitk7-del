@@ -26,9 +26,9 @@ Hello! I'm **GUNIT KAUR**, a postgraduate student pursuing MCA with an interest 
 
 I enjoy learning how applications work behind the scenes, building practical projects, and transforming ideas into useful digital experiences.
 
-- 🎓 **Education:** MCA — Pursuing
-- 💻 **Interests:** Web Development, Backend Development, APIs, and Databases
-- 🌱 **Currently Learning:** Node.js, Express.js, REST APIs, MongoDB, and SQL
+- 🎓 **Education:** BCA — Pursuing
+- 💻 **Interests:** Web Development, Backend Development, APIs, and Databases,Cybersecurity
+- 🌱 **Currently Learning:** web designing,cybersecurity
 - 🛠️ **Building:** Web applications and backend practical projects
 - 🎯 **Goal:** To strengthen my development skills and contribute to real-world software projects
 - 🤝 **Open To:** Learning opportunities, collaborations, internships, and entry-level developer roles
